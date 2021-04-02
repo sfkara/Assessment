@@ -1,4 +1,4 @@
-#  CS-TECH Assessment Application 
+#  Assessment Application 
 
 
 ## Requirements
